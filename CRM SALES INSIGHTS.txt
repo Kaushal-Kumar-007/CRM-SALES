@@ -1,0 +1,61 @@
+Graph-wise Possible Insights:
+1. Repository Numbers vs Followers (Scatter Plot)
+ Possible Insights:
+
+Users with more repositories tend to have more followers — but not always linearly.
+
+Some users with few repositories still have high followers — meaning quality over quantity.
+
+Outliers may show "famous" developers with few but powerful projects.
+
+2. Joining Year vs Repository Numbers (Scatter Plot)
+ Possible Insights:
+
+Users who joined earlier (like 2010–2015) tend to have more repositories — they had more time to create projects.
+
+Newer users (joined after 2020) might have fewer repositories.
+
+You might see a steady growth of repositories over time.
+
+3. Followers vs Stars (Scatter Plot)
+ Possible Insights:
+
+Users with more followers also tend to have more stars on their repositories.
+
+A few users might have many stars despite low followers — maybe because of a popular open-source project.
+
+Some "high followers but low stars" users could be managers, writers, or other tech community figures (not necessarily coders).
+
+4. Last Year Contributions vs Followers (Scatter Plot)
+Possible Insights:
+
+More active contributors (lots of commits, pull requests) tend to have more followers.
+
+It could show community engagement matters for gaining recognition.
+
+If no correlation is seen: maybe only big events (like trending projects) matter more than daily contribution.
+
+5. Programming Language vs Followers (Box Plot)
+ Possible Insights:
+
+Developers using popular languages like Python, JavaScript, or Java might have higher median followers.
+
+Less popular languages (e.g., Perl, Haskell) might show lower follower counts.
+
+You could rank programming languages by "popularity potential."
+
+6. Correlation Heatmap
+Possible Insights:
+
+Strong positive correlations (e.g., followers ↔ stars, last year contributions ↔ followers).
+
+Weak/no correlation between some fields (like social link vs followers, maybe).
+
+Find what metrics are most important to predict popularity.
+
+7. Joining Year vs Repository Numbers (Line/Trend Plot)
+ Possible Insights:
+
+You might see a downward trend if newer users create fewer repositories (due to competition).
+
+Or an upward trend showing more users being productive faster.
