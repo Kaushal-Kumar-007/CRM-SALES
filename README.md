@@ -65,5 +65,19 @@ Each of these relationships is visualized using bar charts, scatter plots, and o
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/github-user-activity-analysis.git
-   cd github-user-activity-analysis
+   git clone https://github.com/Kaushal-Kumar-007/CRM-SALES/tree/main
+    Connect with Me
+Feel free to connect and suggest improvements!
+
+GitHub: https://github.com/Kaushal-Kumar-007/CRM-SALES/tree/main
+
+LinkedIn: yourlinkedinprofile
+
+📁 github-user-activity-analysis
+│
+├── 📄 dashboard.py               # Streamlit dashboard script
+├── 📄  README.md            # Project Documentation
+├── 📄 requirements.txt       # Python dependencies (optional)
+├── 📄   01211.CSV            # Dataset file
+└── 📁 CRM PROJECT SCREENSHOT/                # (Optional) Graphs screenshots
+
