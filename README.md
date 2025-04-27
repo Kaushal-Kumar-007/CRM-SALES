@@ -67,6 +67,9 @@ Each of these relationships is visualized using bar charts, scatter plots, and o
    ```bash
    git clone https://github.com/Kaushal-Kumar-007/CRM-SALES/tree/main
     Connect with Me
+
+** PROJECT WALK THROUGH,  DESCRIBING PROJECT INSIGHTS WITH THE HELP OF VIDEO. **
+** VIDEO LINK:-    https://drive.google.com/file/d/1VmUuyZkJvE8GNTlxSAEQXStSrxRM0Nk1/view?usp=sharing
 Feel free to connect and suggest improvements!
 
 GitHub: https://github.com/Kaushal-Kumar-007/CRM-SALES/tree/main
